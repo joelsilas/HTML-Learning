@@ -1,0 +1,19 @@
+body {
+    background-color: green;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+    border: 1px solid powderblue;
+    padding: 30px;
+}
+p {
+    color: red;
+    font-family: verdana;
+    font-size: 160%;
+    margin: 50px;
+}
+#somerandom {
+	color: powderblue;
+}
